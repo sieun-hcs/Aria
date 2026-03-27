@@ -216,3 +216,8 @@ If you find our work helpful, please consider citing.
 ```
 
 
+
+
+## Related Projects
+1. related project [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+2. related project [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
